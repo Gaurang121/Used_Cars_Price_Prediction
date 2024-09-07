@@ -4,7 +4,7 @@
 # # LAB 1
 
 # # Data Acquisition
-# <p>
+
 # A data set is typically a file containing data stored in one of several formats. Common file formats containing data sets include: .csv, .json, .xlsx etc. The data set can be stored in different places, on your local machine, on a server or a websiite, cloud storage and so on.<br>
 # 
 # To analyse data in a Python notebook, we need to bring the data set into the notebook. In this section, you will learn how to load a data set into our Jupyter Notebook.<br>
@@ -15,7 +15,7 @@
 #     <li>Data type: csv</li>
 # </ul>
 # The Pandas Library is a very popular and very useful tool that enables us to read various datasets into a data frame; our Jupyter notebook platforms have a built-in <b>Pandas Library</b> so that all we need to do is import Pandas without installing.
-# </p>
+
 # 
 
 # In[8]:
